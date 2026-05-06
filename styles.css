@@ -1,0 +1,25 @@
+body {
+    background-color: #FDF9F0;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #9D9065;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 10px;
+}
+
+footer {
+    background-color: #9D9065;
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: "Times New Roman";
+}
